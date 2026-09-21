@@ -1,0 +1,16 @@
+.vs/
+build/
+[Bb]in/
+[Oo]bj/
+
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.tlog
